@@ -87,7 +87,7 @@ The Café Harmony Dashboard features six impactful visuals designed to present b
 Insight: Identifies the highest revenue-generating items (e.g., Muffin, Cappuccino), helping Café Harmony prioritize promotions and manage stock accordingly.
 
 <img width="537" height="228" alt="cafe rev by pro shot" src="https://github.com/user-attachments/assets/d221d707-a051-42f7-b764-ab413d0f6ed7" />
-
+<br><br>
 
 **Revenue by Customer Age Range**
 - Chart Type: Bar Chart
@@ -95,7 +95,7 @@ Insight: Identifies the highest revenue-generating items (e.g., Muffin, Cappucci
 Insight: Reveals that the 54–65 age group contributes the highest sales ($3.2K), offering guidance on targeted marketing strategies.
 
 <img width="578" height="228" alt="caf rev by age" src="https://github.com/user-attachments/assets/56036f35-a59f-4e49-84dd-36a4610f2ece" />
-
+<br><br>
 
 **Revenue by Gender**
 - Chart Type: Bar Chart
@@ -103,7 +103,7 @@ Insight: Reveals that the 54–65 age group contributes the highest sales ($3.2K
 Insight: Shows female customers account for 54% of total sales, providing direction for tailored campaigns.
 
 <img width="347" height="231" alt="caf Rev by gen" src="https://github.com/user-attachments/assets/9b5c25ce-ed9d-49f4-8902-e8debe44b0be" />
-
+<br><br>
 
 **Sales Target Performance – Employees**
 - Chart Type: Clustered Column Chart
@@ -111,7 +111,7 @@ Insight: Shows female customers account for 54% of total sales, providing direct
 Insight: Displays top 5 employees who exceeded sales targets, enabling performance recognition and training focus.
 
 <img width="468" height="266" alt="top emplo shot" src="https://github.com/user-attachments/assets/11d87df8-5e9f-4e73-ab68-1989c853a401" />
-
+<br><br>
 
 **Customer Sentiment Distribution**
 - Chart Type: Bar Chart
@@ -119,7 +119,7 @@ Insight: Displays top 5 employees who exceeded sales targets, enabling performan
 Insight: Only 32% of customer feedback is positive. A high percentage of neutral and negative responses suggests the need to improve customer experience.
 
 <img width="366" height="260" alt="cust sen shot" src="https://github.com/user-attachments/assets/479d5883-77af-4fe7-9f04-aab8e392e31e" />
-
+<br><br>
 
 **Sales vs. Target by Location**
 Chart Type: Grouped Bar Chart
@@ -128,13 +128,11 @@ Insight: Compares sales target and actual sales per location, showing that all l
 
 <img width="620" height="263" alt="sales targ shot" src="https://github.com/user-attachments/assets/8c81f03d-1d0c-453c-bc16-df1dce942224" />
 
-
 ## Dashboard Overview
 The Café Harmony Dashboard is an interactive Excel-based business intelligence tool designed to provide a comprehensive view of the café’s operational and customer performance. Built using pivot tables, charts, slicers, and Excel functions, the dashboard consolidates insights on sales revenue, customer demographics, product demand, employee performance, and stock management. It features key performance indicators (KPIs) such as total sales, number of transactions, quantity sold, average customer rating, and percentage of stock items below ideal level. With a clean, user-friendly layout and dynamic filtering options, the dashboard enables quick, data-driven decision-making to improve efficiency, boost customer satisfaction, and drive overall business growth.
 
 
-
-
+<img width="1741" height="771" alt="dash" src="https://github.com/user-attachments/assets/a6cda8b9-1523-4a25-ada6-f08fee664d09" />
 
 ## Insights Derived
 Here are the insights derived from the Café Harmony Excel dashboard analysis:
