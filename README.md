@@ -112,7 +112,7 @@ Insight: Reveals that the 54–65 age group contributes the highest sales ($3.2K
 <br><br>
 
 **Revenue by Gender**
-- Chart Type: Bar Chart
+- Chart Type: Clustered Column Chart
 
 Insight: Shows female customers account for 54% of total sales, providing direction for tailored campaigns.
 
@@ -128,7 +128,7 @@ Insight: Displays top 5 employees who exceeded sales targets, enabling performan
 <br><br>
 
 **Customer Sentiment Distribution**
-- Chart Type: Bar Chart
+- Chart Type: Clustered Column Chart
 
 Insight: Only 32% of customer feedback is positive. A high percentage of neutral and negative responses suggests the need to improve customer experience.
 
@@ -136,7 +136,7 @@ Insight: Only 32% of customer feedback is positive. A high percentage of neutral
 <br><br>
 
 **Sales vs. Target by Location**
-Chart Type: Grouped Bar Chart
+- Chart Type: Grouped Bar Chart
 
 Insight: Compares sales target and actual sales per location, showing that all locations exceeded their targets, with Downtown leading in performance.
 
