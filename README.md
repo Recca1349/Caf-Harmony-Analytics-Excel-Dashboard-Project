@@ -86,17 +86,23 @@ The Café Harmony Dashboard features six impactful visuals designed to present b
 
 Insight: Identifies the highest revenue-generating items (e.g., Muffin, Cappuccino), helping Café Harmony prioritize promotions and manage stock accordingly.
 
+<img width="537" height="228" alt="cafe rev by pro shot" src="https://github.com/user-attachments/assets/d221d707-a051-42f7-b764-ab413d0f6ed7" />
+
 
 **Revenue by Customer Age Range**
 - Chart Type: Bar Chart
 
 Insight: Reveals that the 54–65 age group contributes the highest sales ($3.2K), offering guidance on targeted marketing strategies.
 
+<img width="578" height="228" alt="caf rev by age" src="https://github.com/user-attachments/assets/56036f35-a59f-4e49-84dd-36a4610f2ece" />
+
 
 **Revenue by Gender**
 - Chart Type: Bar Chart
 
 Insight: Shows female customers account for 54% of total sales, providing direction for tailored campaigns.
+
+<img width="347" height="231" alt="caf Rev by gen" src="https://github.com/user-attachments/assets/9b5c25ce-ed9d-49f4-8902-e8debe44b0be" />
 
 
 **Sales Target Performance – Employees**
