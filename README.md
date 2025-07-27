@@ -110,11 +110,15 @@ Insight: Shows female customers account for 54% of total sales, providing direct
 
 Insight: Displays top 5 employees who exceeded sales targets, enabling performance recognition and training focus.
 
+<img width="468" height="266" alt="top emplo shot" src="https://github.com/user-attachments/assets/11d87df8-5e9f-4e73-ab68-1989c853a401" />
+
 
 **Customer Sentiment Distribution**
 - Chart Type: Bar Chart
 
 Insight: Only 32% of customer feedback is positive. A high percentage of neutral and negative responses suggests the need to improve customer experience.
+
+<img width="366" height="260" alt="cust sen shot" src="https://github.com/user-attachments/assets/479d5883-77af-4fe7-9f04-aab8e392e31e" />
 
 
 **Sales vs. Target by Location**
@@ -122,8 +126,15 @@ Chart Type: Grouped Bar Chart
 
 Insight: Compares sales target and actual sales per location, showing that all locations exceeded their targets, with Downtown leading in performance.
 
+<img width="620" height="263" alt="sales targ shot" src="https://github.com/user-attachments/assets/8c81f03d-1d0c-453c-bc16-df1dce942224" />
+
+
 ## Dashboard Overview
 The Café Harmony Dashboard is an interactive Excel-based business intelligence tool designed to provide a comprehensive view of the café’s operational and customer performance. Built using pivot tables, charts, slicers, and Excel functions, the dashboard consolidates insights on sales revenue, customer demographics, product demand, employee performance, and stock management. It features key performance indicators (KPIs) such as total sales, number of transactions, quantity sold, average customer rating, and percentage of stock items below ideal level. With a clean, user-friendly layout and dynamic filtering options, the dashboard enables quick, data-driven decision-making to improve efficiency, boost customer satisfaction, and drive overall business growth.
+
+
+
+
 
 ## Insights Derived
 Here are the insights derived from the Café Harmony Excel dashboard analysis:
