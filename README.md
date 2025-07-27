@@ -1,4 +1,4 @@
-# Caf-Harmony-Analytics-Excel-Dashboard-Project
+# Café-Harmony-Analytics-Excel-Dashboard-Project
 
 ![Rick-Stein-Coffee-Shop-Padstow](https://github.com/user-attachments/assets/5b689a21-7c79-4a56-934c-c2852aaeab1f)
 
