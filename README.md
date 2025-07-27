@@ -52,3 +52,7 @@ The aim of this project is to analyze Café Harmony’s business data using Micr
 
 **6. Insight Generation & Reporting:**
 Interpreted analytical results into meaningful business insights, highlighting performance gaps, trends, and opportunities. Delivered findings in a presentation-ready format with concise insights and recommendations.
+
+## Visualization and Data Analysis
+
+#### **KPIs**
