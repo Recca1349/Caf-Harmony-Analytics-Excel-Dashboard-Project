@@ -146,3 +146,48 @@ Here are the insights derived from the Café Harmony Excel dashboard analysis:
 
 The above insights collectively help Café Harmony make data-informed decisions across operations, marketing, staffing, and inventory management.
 
+## Recommendations
+
+Here are actionable recommendations based on the Café Harmony data analysis:
+
+**1. Promote Top-Selling Items**
+- Capitalize on high-performing menu items like Muffins, Cappuccinos, and Iced Tea by:
+   - Featuring them in promotional combos.
+   - Highlighting them in marketing campaigns.
+   - Ensuring adequate stock levels to meet demand.
+
+**2. Target High-Value Demographics**
+- Since customers aged 54–65 and females generated the highest revenue:
+   - Design loyalty programs or exclusive offers for this group.
+   - Tailor communication strategies (emails, ads) to align with their preferences.
+
+**3. Improve Inventory Management**
+- With 50% of items below ideal stock:
+   - Implement a stock monitoring system to alert when inventory hits critical levels.
+   - Prioritize reordering frequently low items like Milk, Tea Bags, and Muffin Mix.
+
+**4. Support Underperforming Staff**
+- To improve sales team performance:
+   - Offer targeted training and mentoring for employees below target.
+   - Introduce performance-based incentives or gamified competitions.
+
+**5. Enhance Customer Experience**
+- Given that only 32% of feedback was positive:
+   - Conduct follow-up surveys to understand specific issues.
+   - Improve service speed, quality, or ambience based on recurring negative comments.
+   - Empower staff to resolve complaints quickly.
+
+**6. Monitor and Act on Feedback Trends**
+- Use sentiment data to:
+   - Identify root causes of dissatisfaction.
+   - Celebrate teams or locations with better feedback.
+   - Set internal KPIs to improve customer sentiment score.
+
+These recommendations, when implemented, can drive higher customer satisfaction, better staff productivity, and sustainable business growth for Café Harmony.
+
+
+
+
+
+
+
