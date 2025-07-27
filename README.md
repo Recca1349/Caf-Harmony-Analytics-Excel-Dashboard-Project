@@ -56,3 +56,22 @@ Interpreted analytical results into meaningful business insights, highlighting p
 ## Visualization and Data Analysis
 
 #### **KPIs**
+
+The Café Harmony Dashboard showcases five core KPIs that provide a clear view of the café’s overall performance, from sales to customer satisfaction and stock efficiency.
+
+**Total Sales: $12.6K**
+Represents total revenue generated from food and beverage sales across all outlets.
+
+**Quantity Sold: 3.0K units**
+Reflects the volume of menu items sold, helping to assess product demand and customer preference.
+
+**Number of Transactions: 1,000 orders**
+Indicates the total number of customer purchases, providing insight into sales volume and customer footfall.
+
+**% of Stock Items Below Ideal Level: 50% or Items Understocked**
+Half of the tracked inventory items are below their ideal stock levels, highlighting a need for better inventory management and restocking strategies.
+
+Average Customer Rating: 3.04 out of 5
+Captures overall customer satisfaction, suggesting room for improvement in service or product quality.
+
+These KPIs were visualized using Excel dashboard tools such as PivotTables, charts, and slicers to help Café Harmony make smarter, data-driven decisions.
