@@ -6,6 +6,20 @@
 **Disclaimer**⚠️:
 All datasets, and reports used in the Café Harmony project are entirely fictional. They do not contain any real proprietary, confidential, or sensitive information from any company, institution, or individual. The data has been simulated purely for educational and demonstration purposes, aimed at showcasing my ability to perform advanced business analysis and dashboard reporting using Microsoft Excel in a café/restaurant retail context.
 
+## 📑 Table of Contents
+
+- [Project Description](#project-description)  
+- [Business Introduction](#business-introduction)  
+- [Problem Statement](#problem-statement)  
+- [Aim of the Project](#aim-of-the-project)  
+- [Methodologies Used](#methodologies-used)  
+- [KPIs](#kpis)  
+- [Visualization and Data Analysis](#visualization-and-data-analysis)  
+- [Dashboard Overview](#dashboard-overview)  
+- [Insights Derived](#insights-derived)  
+- [Recommendations](#recommendations)  
+- [Thank You](#thank-you)
+
 ## Project Description
 
 This project explores operational and customer data from Café Harmony, a fictional café chain, using Microsoft Excel. The goal was to analyze key business areas such as sales performance, customer feedback, employee productivity, and stock levels. Through interactive dashboards built with pivot tables, charts, and Excel formulas, this project delivers actionable insights that help optimize operations, enhance customer satisfaction, and drive strategic decision-making.
@@ -200,6 +214,9 @@ Here are actionable recommendations based on the Café Harmony data analysis:
 
 These recommendations, when implemented, can drive higher customer satisfaction, better staff productivity, and sustainable business growth for Café Harmony.
 
+## Thank You
+For more information, you can contact me 
+<img width="1010" height="251" alt="Contact shot" src="https://github.com/user-attachments/assets/45ccc75a-e378-46b9-8809-7857454e23c0" />
 
 
 
