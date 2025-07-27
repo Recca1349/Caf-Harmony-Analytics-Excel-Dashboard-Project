@@ -75,3 +75,46 @@ The Café Harmony Dashboard showcases five core KPIs that provide a clear view o
 - Captures overall customer satisfaction, suggesting room for improvement in service or product quality.
 
 These KPIs were visualized using Excel dashboard tools such as PivotTables, charts, and slicers to help Café Harmony make smarter, data-driven decisions.
+
+<img width="1487" height="133" alt="cafe kpi shot" src="https://github.com/user-attachments/assets/41070238-e7bd-4f87-b911-98b72d100e8e" />
+
+#### Visuals & Charts in the Dashboard
+The Café Harmony Dashboard features six impactful visuals designed to present business insights in a clear, interactive format using Microsoft Excel. Each chart targets a specific operational or strategic area of the café’s performance:
+
+**Top-Selling Menu Items**
+- Chart Type: Bar Chart
+
+Insight: Identifies the highest revenue-generating items (e.g., Muffin, Cappuccino), helping Café Harmony prioritize promotions and manage stock accordingly.
+
+
+**Revenue by Customer Age Range**
+- Chart Type: Bar Chart
+
+Insight: Reveals that the 54–65 age group contributes the highest sales ($3.2K), offering guidance on targeted marketing strategies.
+
+
+**Revenue by Gender**
+- Chart Type: Bar Chart
+
+Insight: Shows female customers account for 54% of total sales, providing direction for tailored campaigns.
+
+
+**Sales Target Performance – Employees**
+- Chart Type: Clustered Column Chart
+
+Insight: Displays top 5 employees who exceeded sales targets, enabling performance recognition and training focus.
+
+
+**Customer Sentiment Distribution**
+- Chart Type: Bar Chart
+
+Insight: Only 32% of customer feedback is positive. A high percentage of neutral and negative responses suggests the need to improve customer experience.
+
+
+**Sales vs. Target by Location**
+Chart Type: Grouped Bar Chart
+
+Insight: Compares sales target and actual sales per location, showing that all locations exceeded their targets, with Downtown leading in performance.
+
+## Dashboard Overview
+The Café Harmony Dashboard is an interactive Excel-based business intelligence tool designed to provide a comprehensive view of the café’s operational and customer performance. Built using pivot tables, charts, slicers, and Excel functions, the dashboard consolidates insights on sales revenue, customer demographics, product demand, employee performance, and stock management. It features key performance indicators (KPIs) such as total sales, number of transactions, quantity sold, average customer rating, and percentage of stock items below ideal level. With a clean, user-friendly layout and dynamic filtering options, the dashboard enables quick, data-driven decision-making to improve efficiency, boost customer satisfaction, and drive overall business growth.
