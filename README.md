@@ -118,3 +118,31 @@ Insight: Compares sales target and actual sales per location, showing that all l
 
 ## Dashboard Overview
 The Café Harmony Dashboard is an interactive Excel-based business intelligence tool designed to provide a comprehensive view of the café’s operational and customer performance. Built using pivot tables, charts, slicers, and Excel functions, the dashboard consolidates insights on sales revenue, customer demographics, product demand, employee performance, and stock management. It features key performance indicators (KPIs) such as total sales, number of transactions, quantity sold, average customer rating, and percentage of stock items below ideal level. With a clean, user-friendly layout and dynamic filtering options, the dashboard enables quick, data-driven decision-making to improve efficiency, boost customer satisfaction, and drive overall business growth.
+
+## Insights Derived
+Here are the insights derived from the Café Harmony Excel dashboard analysis:
+
+**1. Sales Performance Insights**
+- Total Sales amounted to $12.6K across key menu items.
+- Muffin was the top-selling item, generating $2.4K, followed by Cappuccino and Iced Tea, indicating strong customer preference for baked goods and beverages.
+- A total of 3,000 units were sold across 1,000 transactions, showing healthy product movement.
+
+**2. Customer Behavior Insights**
+- The 54–65 age group accounted for the highest revenue ($3.2K), suggesting this demographic is the most valuable.
+- Females contributed 54% of total revenue, slightly outperforming males in overall spending.
+- Preferences leaned towards muffins, iced tea, and cappuccinos—helping inform stocking and promotions.
+
+**3. Stock Management Insights**
+- 50% of stock items were below their ideal stock level, with products like Milk, Tea Bags, Muffin Mix, and Croissant Dough frequently running low.
+- This suggests a need for proactive inventory planning to avoid stockouts of high-demand items.
+
+**4. Employee Performance Insights**
+- The top 5 employees (e.g., Elizabeth Thomas, Emily Brown) exceeded sales targets with an average of $6.0K in sales achieved.
+- The bottom 5 employees (e.g., Megan Young, Daniel Jackson) fell below target, averaging $4.5K, indicating potential for coaching or performance incentives.
+
+**5. Customer Feedback Insights**
+- Only 32% of feedback was positive, with 34% each being neutral and negative.
+- Frequent comments like "Could be better" highlight areas for experience improvement, especially in service or quality.
+
+The above insights collectively help Café Harmony make data-informed decisions across operations, marketing, staffing, and inventory management.
+
